@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "gudok",
+      "email": "111@gmail.com",
+      "password": "$2b$10$r.tgOVxOsmGtKLvTnXWvweAUKyCYQAZtAxtlkOK/D0XnEO9Wuxmn2",
+      "avatar": "https://example.com/default-avatar.jpg",
+      "channels": []
+    },
+    {
+      "id": 2,
+      "username": "gudok2",
+      "email": "111@gmail.com",
+      "password": "$2b$10$iU52DvSG2eSXaVmKjRfzm.CsqKmXt/Er3.a/J7mmTI4O64sc27TKu",
+      "avatar": "https://example.com/default-avatar.jpg",
+      "channels": []
+    },
+    {
+      "id": 3,
+      "username": "gudok3",
+      "email": "111@gmail.com",
+      "password": "$2b$10$wb6TIQEXWseiSb9PA7ZNyeblmg3K1Ra3aZYrhq.pA0EKxMnP4RgCK",
+      "avatar": "https://example.com/default-avatar.jpg",
+      "channels": []
+    },
+    {
+      "id": 4,
+      "username": "gudok5",
+      "email": "111@gmail.com",
+      "password": "$2b$10$wvnAg.JVkbwA1TU1ZeB3ueSUliOh7xmZrKPbWnCuXRn7g0.aj3fca",
+      "avatar": "https://example.com/default-avatar.jpg",
+      "channels": []
+    },
+    {
+      "id": 5,
+      "username": "gudok10",
+      "email": "111@gmail.com",
+      "password": "$2b$10$eBZVrSVCvdmt88XeDaRK3eFtWNrIoN1BRXro94PlQsc.PVqT.PlVe",
+      "avatar": "https://example.com/default-avatar.jpg",
+      "channels": []
+    }
+  ],
+  "channels": [
+    {
+      "id": 2,
+      "name": "channel 2",
+      "users": [
+        {
+          "id": 1,
+          "username": "gudok",
+          "messages": [
+            {
+              "id": 1,
+              "username": "gudok",
+              "text": "hello",
+              "timestamp": "2025-10-21T07:32:13.553Z"
+            },
+            {
+              "id": 2,
+              "username": "gudok",
+              "text": "hello1",
+              "timestamp": "2025-10-21T07:43:46.270Z"
+            },
+            {
+              "id": 3,
+              "username": "gudok",
+              "text": "hello2",
+              "timestamp": "2025-10-21T07:43:49.219Z"
+            },
+            {
+              "id": 4,
+              "username": "gudok",
+              "text": "hello3",
+              "timestamp": "2025-10-21T07:48:30.488Z"
+            }
+          ]
+        }
+      ],
+      "creator": "gudok"
+    }
+  ]
+}
