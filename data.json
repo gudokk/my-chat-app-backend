@@ -42,42 +42,5 @@
     }
   ],
   "channels": [
-    {
-      "id": 2,
-      "name": "channel 2",
-      "users": [
-        {
-          "id": 1,
-          "username": "gudok",
-          "messages": [
-            {
-              "id": 1,
-              "username": "gudok",
-              "text": "hello",
-              "timestamp": "2025-10-21T07:32:13.553Z"
-            },
-            {
-              "id": 2,
-              "username": "gudok",
-              "text": "hello1",
-              "timestamp": "2025-10-21T07:43:46.270Z"
-            },
-            {
-              "id": 3,
-              "username": "gudok",
-              "text": "hello2",
-              "timestamp": "2025-10-21T07:43:49.219Z"
-            },
-            {
-              "id": 4,
-              "username": "gudok",
-              "text": "hello3",
-              "timestamp": "2025-10-21T07:48:30.488Z"
-            }
-          ]
-        }
-      ],
-      "creator": "gudok"
-    }
   ]
 }
